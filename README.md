@@ -27,6 +27,7 @@
 </div>
 
 ---
+
 <br>
 <div align-items = "left">
 <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=brunoviskfe&theme=dark&show_icons=true"></img>
